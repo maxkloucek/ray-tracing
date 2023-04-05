@@ -2,6 +2,7 @@
 
 int make_image(){
     int x = 0;
+    int y = 0
     return x;
 
 }
