@@ -1,0 +1,2 @@
+namespace  raytrace {
+}  // namespace raytrace
