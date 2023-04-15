@@ -3,6 +3,9 @@
 int make_image(){
     int x = 0;
     int y = 0;
+    int z = 0;
+    array = [x, y, z];
+    printf(array[0], array[1], array[2])
 }
 
 int main(){
