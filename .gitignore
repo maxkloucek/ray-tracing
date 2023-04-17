@@ -2,6 +2,12 @@
 .vscode
 .DS_Store
 
+# CMake
+CMakeCache.txt
+CMakeFiles
+cmake_install.cmake
+Makefile
+
 
 # Prerequisites
 *.d

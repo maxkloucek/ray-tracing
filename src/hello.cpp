@@ -13,9 +13,10 @@ class Person{
 int main(){
     std::cout << "Hello, World!" << std::endl;
     Person john = Person(20, "John");
-    john.age = 21;
-    john.name = "Johnxx";
-    std::cout << "John is " << john.age << " years old." << std::endl;
+    // john.age = 21;
+    // john.name = "Johnxx";
+    // std::cout << "John is " << john.age << " years old." << std::endl;
     // const int image_width = 256;
     // const int image_height = 256;
+    std::cout << "Hello!" << std::endl;
 }
